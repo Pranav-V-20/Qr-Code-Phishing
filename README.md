@@ -1,6 +1,12 @@
 # Qr-Code-Phishing
 
-Medusa Phisher is a phishing tool script designed to create phishing pages for various online services. It allows users to set up phishing pages for services like Instagram, Facebook, Twitter, and more. The script facilitates hosting these phishing pages using localhost.run for tunnelling, making it easy to capture user credentials.
+It allows users to set up phishing pages for services like Instagram, Facebook, Twitter, and more. The script facilitates hosting these phishing pages using localhost.run for tunnelling, making it easy to capture user credentials by share the qr code.
+
+---
+
+# Purpose
+
+This project is an educational testbed for studying QR-code related threats, user behaviour, and defensive tooling. It is designed to be used only in isolated, authorized environments (local lab or legal customer engagements). This repository focuses on awareness, detection, and mitigation — not on enabling attacks.
 
 ---
 
